@@ -1,0 +1,12 @@
+name: DietPlan
+title: DietPlan
+username: pranati-1108
+account: pranati-1108
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649139
+bundleId: 9583909
+url: https://pranati-1108.shinyapps.io/DietPlan/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
